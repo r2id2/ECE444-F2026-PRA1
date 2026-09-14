@@ -2,4 +2,4 @@
 ## Raida fardous
 
 ### Activity 1 Screenshot of README commit
-![alt text](image.png)
+![alt text](activity1-screenshot.png)
