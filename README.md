@@ -6,3 +6,6 @@
 
 ### Activity 3 Screenshot of successful merge
 ![alt text](activity3-screenshot.png)
+
+### Activity 4 Screenshot of successful merge
+![alt text](activity4-screenshot.png)
